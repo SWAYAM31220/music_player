@@ -24,7 +24,7 @@ const music_list = [
         img : './images/1.png',
         name : 'Aawara Shaam',
         artist : 'Swayam',
-        music : 'music/Aawara Shaam Hai Slowed And Reverb  Piyush Mehorliyaa  Indian Lofi Song Channel.mp3'
+        music : 'https://drive.google.com/file/d/1xn-eLYwhDE7XxepLLF49l8THjK5Rq2LR/view?usp=sharing'
     },
     {
         img : './images/1.png',
